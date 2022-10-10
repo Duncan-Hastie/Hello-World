@@ -8,6 +8,7 @@ namespace hello_world
         {
             Console.WriteLine("Hello napier");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello napier");
         }
     }
 }
